@@ -62,7 +62,7 @@ Unlock powerful features with the Pro version!
 This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.  
 
 ## **Feedback and Support**  
-We’d love to hear from you! If you encounter any issues or have suggestions, feel free to open an issue or contact us at [support_email@example.com](mailto:support_email@example.com).  
+We’d love to hear from you! If you encounter any issues or have suggestions, feel free to open an issue or contact us at [support_Proxlight](mailto:proxlight02@gmail.com).  
 
 ---
 
