@@ -54,7 +54,7 @@ Unlock powerful features with the Pro version!
 👉 [**Explore Buildfy Pro**](https://buildfygui.netlify.app)  
 
 ## **Screenshots**  
-![Buildfy UI](./assets/Demo.png)  
+![Buildfy UI](./Demo.png)  
 
 
 
