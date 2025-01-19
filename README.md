@@ -8,7 +8,7 @@
 
 **Buildfy** is your go-to tool for effortlessly creating **CustomTkinter** interfaces. With **AI-generated** design features, real-time previews, and powerful export options, Buildfy helps you bring your ideas to life without the hassle of manual coding.
 
----
+
 
 <p align="center">
   <a href="https://www.producthunt.com/products/buildfy/reviews?utm_source=badge-product_review&utm_medium=badge&utm_souce=badge-buildfy" target="_blank">
