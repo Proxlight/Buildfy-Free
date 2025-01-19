@@ -50,10 +50,10 @@ Unlock powerful features with the **Pro Version**.
 ## Screenshots
 
 ### Buildfy Interface
-![Buildfy UI](assets/Demo.png)
+![Buildfy UI](Demo.png)
 
 ### New AI GUI Generation
-![Light Theme Example](assets/1.png)
+![AI GUI Generation](assets/1.png)
 
 
 ---
