@@ -1,47 +1,53 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Buildfy Logo" width="150" />
+</p>
+
 # Buildfy – The Ultimate AI-Powered GUI Builder for CustomTkinter
 
 🚀 **Create Beautiful GUIs with AI Assistance and Drag-and-Drop Simplicity**
 
-Buildfy makes it easier than ever to design professional **CustomTkinter** interfaces with **AI-generated** designs, real-time previews, and powerful export options. Whether you're building simple forms or complex dashboards, **Buildfy** streamlines your GUI development, saving you time and effort.
+**Buildfy** is your go-to tool for effortlessly creating **CustomTkinter** interfaces. With **AI-generated** design features, real-time previews, and powerful export options, Buildfy helps you bring your ideas to life without the hassle of manual coding.
 
 ---
 
-## **🌐 Explore Buildfy on Product Hunt**
+<p align="center">
+  <a href="https://www.producthunt.com/products/buildfy/reviews?utm_source=badge-product_review&utm_medium=badge&utm_souce=badge-buildfy" target="_blank">
+    <img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=850965&theme=light" alt="Buildfy - Where Ideas Take Shape | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
+  </a>
+</p>
 
-<a href="https://www.producthunt.com/products/buildfy/reviews?utm_source=badge-product_review&utm_medium=badge&utm_souce=badge-buildfy" target="_blank">
-  <img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=850965&theme=light" alt="Buildfy - Where&#0032;Ideas&#0032;Take&#0032;Shape | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
-</a>
-
-Visit our website: [Buildfy - Where Ideas Take Shape](https://buildfygui.netlify.app/)
-
----
-
-## **🧠 New: AI-Generated GUIs Now Available!**
-Let AI design your interface with just a description! Buildfy’s **AI-powered design** feature helps you generate interfaces quickly and effortlessly.
+[Visit our website here!](https://buildfygui.netlify.app/)
 
 ---
 
-## **Features**
+## New: AI-Generated GUIs Now Available!
 
-### **Free Version:**
-Perfect for getting started with essential GUI features and basic exporting.
-
-- ✅ **All Essential Widgets** – Access Labels, Buttons, Textboxes, Sliders, and more.
-- ✅ **Real-time Preview** – See your changes instantly with the live preview canvas.
-- ✅ **Basic Export** – Generate Python code with 3 exports per month.
-- ✅ **Startup Screen Widget** – Create eye-catching splash screens for your applications.
-
-### **Pro Version:**
-Unlock all the powerful features and advanced widgets with **Buildfy Pro**.
-
-- 🚀 **AI-Generated GUIs** – Let AI design your interface based on a simple description.
-- 🚀 **Unlimited Exports** – Export as many projects as you need, with no limits.
-- 🚀 **Save & Load Projects** – Work seamlessly across multiple designs.
-- 🚀 **Dark/Light Theme Toggle** – Work in your preferred mode.
+**AI-powered designs**: Let **Buildfy** generate your GUI with just a description. Simplify the process and save time with AI’s help.
 
 ---
 
-## **Screenshots**
+## Features
+
+### Free Version
+The Free Version comes packed with all the essentials to get started with GUI design.
+
+- 🎨 **Essential Widgets**: Labels, Buttons, Textboxes, Sliders, and more!
+- 🖥️ **Real-Time Preview**: View your design as you make changes.
+- 🐍 **Basic Export**: Generate Python code (3 exports/month).
+- 🎬 **Startup Screen Widget**: Design splash screens for your applications.
+
+### Pro Version ($8/month)
+Unlock powerful features with the **Pro Version**.
+
+- 🤖 **AI-Generated GUIs**: Let AI generate your interface based on a description.
+- 🔄 **Unlimited Exports**: Export as many projects as you need.
+- 💾 **Save & Load Projects**: Seamlessly work on multiple designs.
+- 🌑🌞 **Dark/Light Mode Toggle**: Design in your preferred theme.
+- 🔄 **Lifetime Updates**: Get all future features and widgets.
+
+---
+
+## Screenshots
 
 ### Buildfy Interface
 ![Buildfy UI](assets/buildfy-interface.png)
@@ -53,28 +59,26 @@ Unlock all the powerful features and advanced widgets with **Buildfy Pro**.
 ![Dark Theme Example](assets/dark-theme-example.png)
 
 ### Example Project: Simple Form
-![Example Project](assets/simple-form-example.png)
+![Simple Form Example](assets/simple-form-example.png)
 
 ---
 
-## **📥 Download Buildfy**
+## Download Buildfy
 
-Start building your CustomTkinter GUIs with ease by downloading the app from our website and exploring all the available features.
-
----
-
-## **Logo**
-![Buildfy Logo](assets/logo.png)
+Start building your CustomTkinter GUIs today! [Download Buildfy now](https://buildfygui.netlify.app/).
 
 ---
 
-**Feedback & Support:**  
-We’d love to hear from you! If you encounter any issues or have suggestions, feel free to open an issue or contact us directly at support_Proxlight.
+## License
 
-🌟 **Star this repository** if you found Buildfy helpful, and explore the **Pro Version** to unlock your GUI design potential!
+This project is licensed under the **MIT License** – see the [LICENSE file](#) for details.
 
 ---
 
-## **License**
+## Feedback & Support
 
-The software is licensed under the **MIT License** – see the [LICENSE file](#) for details.
+We'd love to hear your thoughts! If you have any issues or suggestions, feel free to open an issue on GitHub or contact us directly at support_Proxlight.
+
+---
+
+🌟 **Star this repository** if you found Buildfy helpful, and unlock your GUI design potential with the **Pro Version**.
