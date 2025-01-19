@@ -36,7 +36,7 @@ The Free Version comes packed with all the essentials to get started with GUI de
 - 🐍 **Basic Export**: Generate Python code (3 exports/month).
 - 🎬 **Startup Screen Widget**: Design splash screens for your applications.
 
-### Pro Version ($8/month)
+### Pro Version ($8)
 Unlock powerful features with the **Pro Version**.
 
 - 🤖 **AI-Generated GUIs**: Let AI generate your interface based on a description.
