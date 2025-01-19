@@ -72,7 +72,7 @@ This project is licensed under the **MIT License** – see the [LICENSE file](#)
 
 ## Feedback & Support
 
-We'd love to hear your thoughts! If you have any issues or suggestions, feel free to open an issue on GitHub or contact us directly at support_Proxlight.
+We'd love to hear your thoughts! If you have any issues or suggestions, feel free to open an issue on GitHub or contact us directly at proxlight02@gmail.com .
 
 ---
 
