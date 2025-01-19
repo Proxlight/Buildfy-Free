@@ -50,16 +50,11 @@ Unlock powerful features with the **Pro Version**.
 ## Screenshots
 
 ### Buildfy Interface
-![Buildfy UI](assets/buildfy-interface.png)
+![Buildfy UI](assets/Demo.png)
 
-### Light Theme Example
-![Light Theme Example](assets/light-theme-example.png)
+### New AI GUI Generation
+![Light Theme Example](assets/1.png)
 
-### Dark Theme Example
-![Dark Theme Example](assets/dark-theme-example.png)
-
-### Example Project: Simple Form
-![Simple Form Example](assets/simple-form-example.png)
 
 ---
 
