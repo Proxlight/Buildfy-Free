@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Buildfy Logo" width="150" />
+  <img src="assets/Logo.png" alt="Buildfy Logo" width="150" />
 </p>
 
 # Buildfy – The Ultimate AI-Powered GUI Builder for CustomTkinter
